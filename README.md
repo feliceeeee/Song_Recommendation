@@ -50,11 +50,7 @@ To reproduce the project:
    
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-3. Ensure the dataset is located at:
-data/
-└── song_recommendation.csv
-
-4. Open the notebook:
-notebooks/song_recommendation.ipynb
-
-6. Run all cells to perform data preprocessing, exploratory data analysis, and song recommendation.
+   
+3. Ensure the dataset is located at: data/song_recommendation.csv
+4. Open the notebook: notebooks/song_recommendation.ipynb
+5. Run all cells to perform data preprocessing, exploratory data analysis, and song recommendation.
