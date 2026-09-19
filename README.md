@@ -42,7 +42,7 @@ The notebook was developed using Python and Jupyter Notebook.
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/song-recommendation.git
+git clone https://github.com/feliceeeee/Song_Recommendation.git
 ```
 
 2. Install the required libraries:
